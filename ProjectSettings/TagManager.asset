@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Jugador1
+  - Jugador2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 588045757
+    locked: 0
+  - name: Ground
+    uniqueID: 1871423799
+    locked: 0
+  - name: Lava
+    uniqueID: 1091957179
+    locked: 0
+  - name: Items
+    uniqueID: 1764832009
+    locked: 0
+  - name: Overground
+    uniqueID: 1510150415
+    locked: 0
+  - name: Player/Enemy
+    uniqueID: 3379452485
+    locked: 0
+  - name: Player/Player1
+    uniqueID: 1564092019
+    locked: 0
+  - name: Player/Player2
+    uniqueID: 2190441005
+    locked: 0
